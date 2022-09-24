@@ -1,0 +1,12 @@
+.header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    background-image: url("https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-logo-transparent-png.png");
+    background-size: 150px 80px;
+    height: 80px;
+    width: 150px;
+}
