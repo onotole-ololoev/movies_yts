@@ -14,7 +14,6 @@ export const Films = () => {
         <div className={s.films}>
             { isLoading
                 ?
-                // <Spin size="large" />
                 'please, wait.....'
                 :
                 films.movies.map(el => {
